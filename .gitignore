@@ -1,0 +1,7 @@
+dmenu
+stest
+patches
+colors.h
+*.o
+*.orig
+*.rej
